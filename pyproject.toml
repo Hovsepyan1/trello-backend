@@ -1,0 +1,18 @@
+[project]
+name="FastAPI-Trello"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "alembic>=1.18.4",
+    "greenlet>=3.5.0",
+    "httpx>=0.28.1",
+    "psycopg>=3.3.3",
+    "psycopg-binary>=3.3.3",
+    "pwdlib[argon2]>=0.3.0",
+    "pydantic>=2.13.3",
+    "pydantic-settings>=2.14.0",
+    "pyjwt>=2.12.1",
+    "pytest>=9.0.3",
+    "sqlalchemy>=2.0.49",
+]

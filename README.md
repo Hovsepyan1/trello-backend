@@ -1,4 +1,4 @@
-# Internship Project: Kanban Board API
+# Project: Kanban Board API
 
 A robust RESTful API built with **FastAPI** and **SQLAlchemy** for managing Kanban-style project boards. This project focuses on high-security standards and efficient database transactions.
 
